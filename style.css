@@ -9,3 +9,10 @@ body {
     color: blue;
     margin-top: 50px;
 }
+
+.zalando-sans-expanded {
+  font-family: "Zalando Sans Expanded", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
