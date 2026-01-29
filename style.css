@@ -39,6 +39,10 @@ footer {
     color: #0b0752;
 }
 
+a {
+  text-decoration: none;
+}
+
 .links {
     color: #1a0dab;
     text-decoration: none;
